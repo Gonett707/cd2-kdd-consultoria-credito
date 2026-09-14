@@ -1,0 +1,1 @@
+# cd2-kdd-consultoria-credito
